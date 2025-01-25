@@ -16,6 +16,9 @@ Sou desenvolvedor Front-End apaixonado por criar interfaces interativas e respon
 
 
 ## 📈 Estatísticas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonAjr&layout=compact&theme=radical)
+
 ![Winston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonAjr&show_icons=true&theme=radical)
 
 ---
