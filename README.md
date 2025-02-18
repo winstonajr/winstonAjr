@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Winston
 
-Sou desenvolvedor Front-End apaixonado por criar interfaces interativas e responsivas. 🚀
+Sou desenvolvedor Web apaixonado por criar interfaces interativas. 🚀
 
 ## 🛠️ Tecnologias que uso:
 
@@ -17,9 +17,11 @@ Sou desenvolvedor Front-End apaixonado por criar interfaces interativas e respon
 
 ## 📈 Estatísticas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonAjr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=github_dark)
 
-![Winston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonAjr&show_icons=true&theme=radical)
+![Winston's GitHub stats](https://github-readme-stats.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=github_dark)
+
+
 
 ---
 _"Portanto, se vocês comem, ou bebem ou fazem qualquer outra coisa, façam tudo para a glória de Deus" - 1 Coríntios 10.31_ ✨
