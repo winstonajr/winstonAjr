@@ -15,9 +15,9 @@ Sou desenvolvedor Web apaixonado por criar interfaces interativas. 🚀
 
 ## 📈 Estatísticas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=dracula)
 
-![Winston's GitHub stats](https://github-readme-stats.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=github_dark)
+![Winston's GitHub stats](https://github-readme-stats.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=dracula)
 
 
 
