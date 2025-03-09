@@ -4,7 +4,7 @@ Sou desenvolvedor Web apaixonado por criar interfaces interativas. 🚀
 
 ## 🛠️ Tecnologias que uso:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=py,ts,nodejs,express,webpack&theme=light)
 
