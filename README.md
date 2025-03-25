@@ -1,4 +1,5 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQEq17_16Wnq-Q/profile-displaybackgroundimage-shrink_350_1400/B56ZWP6uwFHsAg-/0/1741876295636?e=1748476800&v=beta&t=XqoXaKjzFPgTp9MkU18IZNoM7EN-2J-wDdo6MlIVyoQ)
+<img src="https://cdn.leonardo.ai/users/bb29ed31-83fe-4ab3-b6ee-9c4be98747d6/generations/7d2ece8e-d934-4439-9e30-2fddc458b73d/Leonardo_Phoenix_10_Imagine_a_captivating_LinkedIn_cover_wallp_1.jpg" alt="Banner" style="width:100%; height:300px;">
+
 # Olá, eu sou Winston! 👋
 
 Sou um desenvolvedor Front-End apaixonado por tecnologia e inovação. Atualmente, cursando Ads na Faculdade VINCIT e estou sempre em busca de novos desafios. Desenvolvo projetos que unem design e funcionalidade, e estou aberto a oportunidades de estágio ou posições júnior para aprimorar minhas habilidades.
