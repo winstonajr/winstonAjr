@@ -44,24 +44,14 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats-winstonajr.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Winston's GitHub Stats" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats-winstonajr.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Winston's Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=winstonajr&theme=tokyonight&hide_border=true" alt="Winston's Contribution Streak" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=winstonajr&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Winston's GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-winstonajr.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Winston's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats-winstonajr.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Winston's Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winstonajr&theme=tokyonight&hide_border=true" alt="Winston's Contribution Streak" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=winstonajr&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Winston's GitHub Trophies" />
+  <br>
   <small><i><b>Note:</b> Stats include contributions from private repositories.</i></small>
 </div>
 
