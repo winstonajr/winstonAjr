@@ -1,62 +1,80 @@
-# Olá, eu sou Winston! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Winston!;Web+Developer." alt="Typing SVG" /></a>
+</div>
 
-Sou um desenvolvedor Front-End apaixonado por tecnologia e inovação. Atualmente, cursando Ads na Faculdade VINCIT e estou sempre em busca de novos desafios. Desenvolvo projetos que unem design e funcionalidade, e estou aberto a oportunidades de estágio ou posições júnior para aprimorar minhas habilidades.
-
-## 🛠️ Tecnologias que uso:
-
-### Front-End
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+<p align="center">
+  A Web Developer focused on turning ideas into digital reality, creating dynamic and responsive solutions for the web.
 </p>
-
-### Back-End
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-</p>
-
-### Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
-</p>
-
-### Ferramentas e Versionamento
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
-</p>
-
-## 📈 Estatísticas
-
-<!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=radical)
-
-<!-- Estatísticas gerais -->
-![Winston's GitHub stats](https://github-readme-stats.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=radical)
-
-<!-- Conquistas tipo troféus -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=winstonajr&theme=gruvbox&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/winajr)
-[![Email](https://img.shields.io/badge/Email-winston.almeidamjr@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:winston.almeidamjr@gmail.com)
 
 ---
 
-_"Portanto, se vocês comem, ou bebem ou fazem qualquer outra coisa, façam tudo para a glória de Deus" - 1 Coríntios 10.31_ ✨
+### 🚀 About Me
+- 🎓 Studying **Systems Analysis and Development** at [Faculdade VINCIT](https://faculdadevincit.edu.br/).
+- 💡 Focusing on honing my skills within the **React and TypeScript** ecosystem.
+- 🌱 Actively seeking an **internship or junior opportunity** to apply my knowledge, collaborate with amazing teams, and accelerate my professional growth.
+- 🎨 Beyond code, I'm a **UI/UX enthusiast**, always striving for the best end-user experience.
+
+---
+
+### 🛠️ My Tech Stack
+
+<div align="center">
+  <h4>Frontend</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap" />
+    </a>
+  </p>
+  <h4>Backend & Databases</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mysql,mongodb,sqlite" />
+    </a>
+  </p>
+  <h4>Tools & DevOps</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,figma,vscode" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-winstonajr.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Winston's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-winstonajr.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Winston's Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=winstonajr&theme=tokyonight&hide_border=true" alt="Winston's Contribution Streak" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=winstonajr&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Winston's GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
+  <small><i><b>Note:</b> Stats include contributions from private repositories.</i></small>
+</div>
+
+---
+
+### 📫 Where to Find Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/winstonajr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/win_ajr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:winston.almeidamjr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  </p>
+
+---
+
+> _"So whether you eat or drink or whatever you do, do it all for the glory of God" - 1 Corinthians 10:31_ ✨
