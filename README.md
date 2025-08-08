@@ -50,8 +50,6 @@
   <br>
   <img width="400" src="https://github-readme-stats-winstonajr.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=100&cache_seconds=1800" alt="Winston's Top Languages" />
   <br>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=winstonajr&theme=tokyonight&hide_border=true" alt="Winston's Contribution Streak" />
-  <br>
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=winstonajr&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Winston's GitHub Trophies" />
   <br>
   <small><i><b>Note:</b> Stats include contributions from private repositories.</i></small>
