@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Studying **Systems Analysis and Development** at [Faculdade VINCIT](https://faculdadevincit.edu.br/).
+- 🎓 Studying **Systems Analysis and Development** at [Faculdade FACINT](https://facint.edu.br/).
 - 💡 Focusing on honing my skills within the **React and TypeScript** ecosystem.
 - 🌱 Actively seeking an **internship or junior opportunity** to apply my knowledge, collaborate with amazing teams, and accelerate my professional growth.
 - 🎨 Beyond code, I'm a **UI/UX enthusiast**, always striving for the best end-user experience.
