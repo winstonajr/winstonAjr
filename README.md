@@ -30,13 +30,13 @@
   <h4>Backend & Databases</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mysql,mongodb,sqlite" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,sqlite" />
     </a>
   </p>
   <h4>Tools & DevOps</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,figma,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode" />
     </a>
   </p>
 </div>
