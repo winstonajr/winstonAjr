@@ -46,11 +46,9 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-winstonajr.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Winston's GitHub Stats" />
+  <img width="400" src="https://github-readme-stats-winstonajr.vercel.app/api?username=winstonajr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="Winston's GitHub Stats" />
   <br>
-  <img width="400" src="https://github-readme-stats-winstonajr.vercel.app/api/top-langs/?username=winstonajr&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=100&cache_seconds=1800" alt="Winston's Top Languages" />
-  <br>
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=winstonajr&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Winston's GitHub Trophies" />
+  <img width="400" src="https://github-readme-stats-winstonajr.vercel.app/api/top-langs/?username=winstonajr&layout=donut&theme=tokyonight&hide_border=true&count_private=true&langs_count=100&cache_seconds=1800" alt="Winston's Top Languages" />
   <br>
   <small><i><b>Note:</b> Stats include contributions from private repositories.</i></small>
 </div>
