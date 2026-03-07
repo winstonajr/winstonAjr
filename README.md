@@ -1,19 +1,20 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Winston!;Web+Developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Winston!;Developer." alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  A Web Developer focused on turning ideas into digital reality, creating dynamic and responsive solutions for the web.
+  A Developer focused on turning ideas into digital reality, creating robust, scalable, and responsive solutions across web, mobile, and desktop platforms.
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Studying **Systems Analysis and Development** at [Faculdade FACINT](https://facint.edu.br/).
-- 💡 Focusing on honing my skills within the **React and TypeScript** ecosystem.
-- 🌱 Actively seeking an **internship or junior opportunity** to apply my knowledge, collaborate with amazing teams, and accelerate my professional growth.
+- 💡 Honing my skills across the stack, developing web, mobile, and desktop applications using **React, TypeScript, Node.js, Express, Fastify**, and **Electron**.
+- 🎩 Building my development environment and workflow entirely on **Fedora**.
+- 🌱 Actively seeking my **first Junior Developer position** in Brazil (2026) to apply my knowledge, collaborate with amazing teams, and accelerate my professional growth.
 - 🎨 Beyond code, I'm a **UI/UX enthusiast**, always striving for the best end-user experience.
 
 ---
@@ -21,7 +22,7 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <h4>Frontend</h4>
+  <h4>Frontend & Multiplatform</h4>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap" />
@@ -36,7 +37,7 @@
   <h4>Tools & DevOps</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,linux" />
     </a>
   </p>
 </div>
@@ -52,7 +53,6 @@
   <br>
   <small><i><b>Note:</b> Stats include contributions from private repositories.</i></small>
 </div>
-
 
 ---
 
