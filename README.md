@@ -1,21 +1,31 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Winston!;Developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Winston!;Full+Stack+Developer." alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  A Developer focused on turning ideas into digital reality, creating robust, scalable, and responsive solutions across web, mobile, and desktop platforms.
+  A Full Stack Developer focused on turning ideas into digital reality, creating robust, scalable, and accessible solutions from the interface to the database.
 </p>
+
+<div align="center">
+  <a href="https://www.winstonajr.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00BFFF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Studying **Systems Analysis and Development** at [Faculdade FACINT](https://facint.edu.br/).
-- 💡 Honing my skills across the stack, developing web, mobile, and desktop applications using **React, TypeScript, Node.js, Express, Fastify**, and **Electron**.
-- 🎩 Building my development environment and workflow entirely on **Fedora**.
-- 🌱 Actively seeking my **first Junior Developer position** in Brazil (2026) to apply my knowledge, collaborate with amazing teams, and accelerate my professional growth.
-- 🎨 Beyond code, I'm a **UI/UX enthusiast**, always striving for the best end-user experience.
+
+- 💼 Currently acting as a **Front-end Developer** at QaCoders Academy, applying Clean Architecture and collaborating with multidisciplinary teams.
+- 🎓 Studying **Systems Analysis and Development** at Faculdade Facint.
+- 💡 Honing my skills across the stack, solving complex UI/UX challenges like interactive *drag-and-drop* mechanics, browser-based file rendering (EPUB style), and productivity browser extensions.
+- 🎩 Building my development environment and workflow entirely on **Fedora Linux**.
+- 🌱 Actively seeking my **first Junior or Internship Developer position** to apply my Full Stack knowledge and accelerate my professional growth.
+- 🎨 Beyond code, I'm a UI/UX enthusiast who loves transforming designs into pixel-perfect, clean code.
 
 ---
 
@@ -28,16 +38,16 @@
       <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,tailwind,sass,bootstrap&perline=5" />
     </a>
   </p>
-  <h4>Backend & Databases</h4>
+  <h4>Backend, Databases & Infra</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,sqlite&perline=5" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,sqlite,docker,linux&perline=4" />
     </a>
   </p>
-  <h4>Tools & DevOps</h4>
+  <h4>Tools & Design</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,docker,linux&perline=5" />
+      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode&perline=5" />
     </a>
   </p>
 </div>
@@ -62,11 +72,11 @@
   <a href="https://www.linkedin.com/in/winstonajr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/win_ajr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="mailto:winston.almeidamjr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/win_ajr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
