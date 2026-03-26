@@ -25,19 +25,19 @@
   <h4>Frontend & Multiplatform</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,tailwind,sass,bootstrap&perline=5" />
     </a>
   </p>
   <h4>Backend & Databases</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,sqlite" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,sqlite&perline=5" />
     </a>
   </p>
   <h4>Tools & DevOps</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,linux" />
+      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,docker,linux&perline=5" />
     </a>
   </p>
 </div>
