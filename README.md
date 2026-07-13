@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Winston!;Full+Stack+Developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Winston!;Full+Stack+Developer.;Turning+ideas+into+scalable+code." alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,12 +20,11 @@
 
 ### 🚀 About Me
 
-- 💼 Currently acting as a **Front-end Developer** at QaCoders Academy, applying Clean Architecture and collaborating with multidisciplinary teams.
+- 💼 Currently in **two simultaneous internships**: at **Prefeitura de São Luís**, working with Next.js, TypeScript, Prisma, PostgreSQL, and Flutter (offline-first apps with Delta Sync), plus Server-Sent Events and RAG-based AI features; and at **QaCoders Academy**, as a Front-end Developer applying Clean Architecture in multidisciplinary squads.
 - 🎓 Studying **Systems Analysis and Development** at Faculdade Facint.
-- 💡 Honing my skills across the stack, solving complex UI/UX challenges like interactive *drag-and-drop* mechanics, browser-based file rendering (EPUB style), and productivity browser extensions.
-- 🎩 Building my development environment and workflow entirely on **Fedora Linux**.
-- 🌱 Actively seeking my **first Junior or Internship Developer position** to apply my Full Stack knowledge and accelerate my professional growth.
-- 🎨 Beyond code, I'm a UI/UX enthusiast who loves transforming designs into pixel-perfect, clean code.
+- 💡 Comfortable across the stack: from pixel-perfect UI and offline-first mobile sync to backend architecture and AI-assisted features.
+- 🎩 Building my development environment and workflow entirely on **Linux**.
+- 🎨 UI/UX enthusiast who loves transforming designs into clean, maintainable code.
 
 ---
 
@@ -35,19 +34,19 @@
   <h4>Frontend & Multiplatform</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,tailwind,sass,bootstrap&perline=5" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,dart,flutter,tailwind,sass,bootstrap&perline=6" />
     </a>
   </p>
   <h4>Backend, Databases & Infra</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,sqlite,docker,linux&perline=4" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,postgres,mysql,mongodb,sqlite,docker,linux&perline=6" />
     </a>
   </p>
   <h4>Tools & Design</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode&perline=5" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vite,figma,vscode&perline=6" />
     </a>
   </p>
 </div>
