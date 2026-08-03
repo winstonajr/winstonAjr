@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.winstonajr.com.br" target="_blank">
+  <a href="https://winstonajr.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00BFFF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
