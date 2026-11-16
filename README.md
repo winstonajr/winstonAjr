@@ -8,12 +8,8 @@ Software Engineer / Full Stack Developer focused on resilient distributed system
 
 ## About
 
-- Software Engineering Intern at **SEMIT / Prefeitura de São Luís** (Jun/2026 – Present), building and operating internal and citizen-facing mission-critical systems:
-  - **CIS API**: Java 21/25 (Spring Boot) and PostgreSQL with granular API Key route/method access control and Blue/Green zero-downtime deployments via Docker and Nginx.
-  - **Sentinela / [Argus](https://github.com/winstonajr/argus)**: Lightweight NOC availability and observability monitor in Go, HTMX/SSE, and SQLite for autonomous VM, network (ICMP/TCP), HTTP, TLS, and DNS diagnostics.
-  - **Minha Praça**: PHP 8.5 (Laravel 13) integrated with geospatial PostgreSQL/PostGIS and a hybrid Flutter mobile app.
-  - **Institutional TV Totems & Service Panels**: High-resilience React, TypeScript, and Vite displays with offline playlist fallback, alongside PHP/SQLite automation tools integrated asynchronously with Google Workspace.
-- Previously Front-End Developer Intern at **QaCoders Academy** (Aug/2025 – Aug/2026), building Next.js, TypeScript, and Tailwind CSS applications with Clean Architecture and MVC, interactive drag-and-drop mechanics, and an in-browser EPUB reader.
+- Software Engineering Intern at **SEMIT / Prefeitura de São Luís** (Jun/2026 – Present), working on backend APIs, observability tooling, web interfaces, and mobile integrations using Java (Spring Boot), Go, PHP (Laravel), TypeScript, React, Flutter, PostgreSQL/PostGIS, Docker, and Nginx.
+- Previously Front-End Developer Intern at **QaCoders Academy** (Aug/2025 – Aug/2026), building Next.js, TypeScript, and Tailwind CSS applications with Clean Architecture and MVC.
 - Former Volunteer Python Instructor at **Rede de Aplicação de Ciência e Tecnologia**, teaching programming fundamentals and algorithms to public high school students.
 - Studying **Systems Analysis and Development** at Faculdade Facint, with prior foundation in Interdisciplinary Science & Technology (ICT) at **UFMA**.
 - Core interests: Clean Architecture, SOLID, DRY/YAGNI, offline-first sync protocols (LWW), asymmetric cryptography, and Linux-native workflows.
