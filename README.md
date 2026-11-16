@@ -2,7 +2,7 @@
 
 Software Engineer / Full Stack Developer focused on resilient distributed systems, backend services, and offline-first mobile applications.
 
-[Portfolio](https://winstonajr.com.br) · [LinkedIn](https://www.linkedin.com/in/winstonajr/) · [Email](mailto:winston.almeidamjr@gmail.com)
+[Portfolio](https://winstonajr.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/winstonajr/) · [Email](mailto:winston.almeidamjr@gmail.com)
 
 ---
 
