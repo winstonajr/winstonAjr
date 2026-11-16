@@ -8,7 +8,7 @@ Software Engineer / Full Stack Developer focused on resilient distributed system
 
 ## About
 
-- Software Engineering Intern at **SEMIT / Prefeitura de São Luís** (Jun/2026 – Present), working on backend APIs, observability tooling, web interfaces, and mobile integrations using Java (Spring Boot), Go, PHP (Laravel), TypeScript, React, Flutter, PostgreSQL/PostGIS, Docker, and Nginx.
+- Software Engineering Intern at **SEMIT / Prefeitura de São Luís** (Jun/2026 – Present), working on backend APIs, observability tooling, web interfaces, and mobile integrations using Java (Spring Boot), Go, TypeScript, React, Flutter, PostgreSQL/PostGIS, Docker, and Nginx.
 - Previously Front-End Developer Intern at **QaCoders Academy** (Aug/2025 – Aug/2026), building Next.js, TypeScript, and Tailwind CSS applications with Clean Architecture and MVC.
 - Former Volunteer Python Instructor at **Rede de Aplicação de Ciência e Tecnologia**, teaching programming fundamentals and algorithms to public high school students.
 - Studying **Systems Analysis and Development** at Faculdade Facint, with prior foundation in Interdisciplinary Science & Technology (ICT) at **UFMA**.
@@ -33,7 +33,7 @@ Software Engineer / Full Stack Developer focused on resilient distributed system
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=go,java,spring,kotlin,php,laravel,dart,flutter,typescript,react,nextjs,vue,electron,tailwind&perline=7" alt="Languages & Frameworks" />
+      <img src="https://skillicons.dev/icons?i=go,java,spring,kotlin,dart,flutter,typescript,react,nextjs,vue,electron,tailwind&perline=6" alt="Languages & Frameworks" />
     </a>
   </p>
   <p>
